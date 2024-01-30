@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### This is expected to be my my personal protfolio. 
+I am starting to make this on 30 Jan 2024. Please Stay tuned for updates.
+
+
+
 <!--
 **Niyaz2498/Niyaz2498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
